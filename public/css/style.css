@@ -1,0 +1,26 @@
+.header_title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.gallery{
+    text-align: center;
+}
+.gallery img {
+    width: 25%;
+    height: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .3s;
+    padding: 25px;
+}
+.add_cat{
+    margin: 15px 0px 5px 35px;
+}
+.go_home{
+    float: right;
+}
+
+.err_bg {
+    color:#ff0000;
+    text-align: center;
+}
